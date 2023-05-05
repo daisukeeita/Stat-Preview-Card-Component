@@ -42,7 +42,7 @@ Users should be able to:
 
 ### What I learned
 
-    What I learned in this challenge is the planning of the 'ecosystem' in programming. Since this challenge looks like a simple one, I thought that this is going to be a fast challenge. And without looking very well at the given design and materials, I was stuck at the weird looking image once I got into the desktop section and, oh-boy, I need to re-structure the HTML itself due to having two different set of images. 
+What I learned in this challenge is the planning of the 'ecosystem' in programming. Since this challenge looks like a simple one, I thought that this is going to be a fast challenge. And without looking very well at the given design and materials, I was stuck at the weird looking image once I got into the desktop section and, oh-boy, I need to re-structure the HTML itself due to having two different set of images. 
 
 ## Author
 
